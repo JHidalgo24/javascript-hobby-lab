@@ -15,7 +15,9 @@ a:active {
     color: #fb0e02;
 }
 
-
+.italicize{
+    font-style: italic;
+}
 body > header, body > footer {
     background-color: #32bf04;
     height: 50px;
